@@ -56,7 +56,7 @@ A web app that explores websites to find links and analyze content, built as a t
 1. **Get the code**  
    ```bash
    git clone https://github.com/Raven1233/web-crawler.git
-   cd web-crawler-assignment```
+   cd web-crawler```
 
 2. **Start Backend server**
     ```bash
